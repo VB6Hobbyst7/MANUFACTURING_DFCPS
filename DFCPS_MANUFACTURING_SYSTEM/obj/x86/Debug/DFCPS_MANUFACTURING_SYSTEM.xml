@@ -1,0 +1,512 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DFCPS_MANUFACTURING_SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payrollTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payslipTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsPaymentTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.WithholdingTaxTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.sssSalaryLoanTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.piSalaryLoanTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.dtrRecordTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.leaveTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.empDataTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payrollTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payslipTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsPaymentTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.WithholdingTaxTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.sssSalaryLoanTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.piSalaryLoanTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.dtrRecordTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.leaveTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.empDataTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payrollTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.payslipTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.premsPaymentTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.WithholdingTaxTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.sssSalaryLoanTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.piSalaryLoanTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.dtrRecordTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.leaveTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET.empDataTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.HRISDATASET">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Attendance_Record_SummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Breaktime_Late_SummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Attendance_Record_SummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Breaktime_Late_SummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Attendance_Record_SummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS.Breaktime_Late_SummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.Attendace_DS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.rpt1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.doffedYarnSummaryTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.loomsDoffedSummaryReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPSummaryReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DYwasteTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPIwasteTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.YarnProductionTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.LoomsProductionTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.CSProductionTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.BagInventoryProductionTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorReportTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorCSReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorRankingReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.RawMatsInventoryTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerformanceDailyReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.SalesReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.JOTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.ackReceiptTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DeliveryReceiptTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DRANDGPTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.salesReportPUDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.rpt1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.doffedYarnSummaryTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.loomsDoffedSummaryReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPSummaryReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DYwasteTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPIwasteTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.YarnProductionTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.LoomsProductionTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.CSProductionTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.BagInventoryProductionTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorReportTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorCSReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorRankingReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.RawMatsInventoryTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerformanceDailyReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.SalesReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.JOTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.ackReceiptTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DeliveryReceiptTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DRANDGPTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.salesReportPURow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.rpt1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.doffedYarnSummaryTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.loomsDoffedSummaryReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPSummaryReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DYwasteTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.FPIwasteTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.YarnProductionTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.LoomsProductionTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.CSProductionTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.BagInventoryProductionTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorReportTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorCSReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerOperatorRankingReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.RawMatsInventoryTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.PerformanceDailyReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.SalesReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.JOTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.ackReceiptTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DeliveryReceiptTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.DRANDGPTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1.salesReportPURowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:DFCPS_MANUFACTURING_SYSTEM.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DFCPS_MANUFACTURING_SYSTEM.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DFCPS_MANUFACTURING_SYSTEM.My.Resources.Resources.item_list">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CVTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.VOUCHERTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.GLTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CHECKTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CASHREQTABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.openVoucherTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CVTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.VOUCHERTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.GLTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CHECKTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CASHREQTABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.openVoucherTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CVTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.VOUCHERTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.GLTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CHECKTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.CASHREQTABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS.openVoucherTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DFCPS_MANUFACTURING_SYSTEM.accountingDS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
